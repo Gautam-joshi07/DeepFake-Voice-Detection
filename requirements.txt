@@ -1,0 +1,11 @@
+streamlit==1.10.0
+opencv-python
+
+librosa
+tensorflow
+matplotlib
+keras
+Keras-Preprocessing
+lime
+scikit-image
+numpy
